@@ -1,0 +1,23 @@
+/* universal selector */
+*{
+    margin: 0;
+}
+
+
+.j {
+    text-align: justify;
+  }
+  .k {
+    text-align: center;
+  }
+  .l{
+    text-align: right;
+  }
+  .m {
+    text-align: left
+  }
+  .i {
+    text-indent: 50px;
+
+  }
+ 
